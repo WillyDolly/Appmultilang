@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"App multilang " EN</string>
+    <string name="tieuDeForm">Infomation Form EN</string>
+    <string name="hintHoTen">Input full name EN</string>
+    <string name="hintEmail">Input email EN</string>
+    <string name="hintSDT">Input Phone number EN</string>
+    <string name="textbtnXacNhan">Confirm EN</string>
+    <string name="txtChaoBan">Hello:</string>
+    <string name="txtEmail">\nYour email:</string>
+    <string name="txtSDT">\nYour phone:</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"App multilang "</string>
+    <string name="tieuDeForm">Nhập thông tin</string>
+    <string name="hintHoTen">Nhập họ tên</string>
+    <string name="hintEmail">Nhập email</string>
+    <string name="hintSDT">Nhập số điện thoại</string>
+    <string name="textbtnXacNhan">Xác nhận</string>
+    <string name="txtEmail">\nEmail là:</string>
+    <string name="txtSDT">\n Số điện thoại là:</string>
+    <string name="txtChaoBan">Chào bạn:</string>
+</resources>

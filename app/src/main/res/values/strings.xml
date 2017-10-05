@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"App multilang " </string>
+    <string name="tieuDeForm">Infomation Form </string>
+    <string name="hintHoTen">Input full name </string>
+    <string name="hintEmail">Input email </string>
+    <string name="hintSDT">Input Phone number </string>
+    <string name="textbtnXacNhan">Confirm </string>
+    <string name="txtChaoBan">Hello :</string>
+    <string name="txtEmail">\nYour Email:</string>
+    <string name="txtSDT">\nYour Phone</string>
+</resources>
